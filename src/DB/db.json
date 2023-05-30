@@ -1,0 +1,136 @@
+{
+  "users": [
+    {
+      "name": "Ashraf Hamdy 10",
+      "email": "Ashrafhamdy@gmail.com",
+      "pass": "Ashraf7454527",
+      "id": 1
+    }
+  ],
+  "locations": [
+    {
+      "name": "GeoVani",
+      "phone": "01234548598745",
+      "address": "New York, America",
+      "userId": 1,
+      "id": 1
+    },
+    {
+      "name": "Kentaci",
+      "phone": "01234548598745",
+      "address": "New gersy, America",
+      "userId": 1,
+      "id": 2
+    }
+  ],
+  "categories": [
+    {
+      "name": "Sandwiches",
+      "userId": 1,
+      "locationId": 1,
+      "id": 2
+    },
+    {
+      "name": "Lunch",
+      "userId": 1,
+      "locationId": 2,
+      "id": 3
+    },
+    {
+      "name": "Dinner",
+      "userId": 1,
+      "locationId": 1,
+      "id": 4
+    },
+    {
+      "name": "Breakfast",
+      "userId": 1,
+      "locationId": 1,
+      "id": 6
+    },
+    {
+      "name": "Drinks",
+      "userId": 1,
+      "locationId": 1,
+      "id": 7
+    },
+    {
+      "name": "Burgers",
+      "userId": 1,
+      "locationId": 1,
+      "id": 8
+    }
+  ],
+  "items": [
+    {
+      "name": "French Fries max",
+      "price": "18.00",
+      "description": "Fried Potatoes with some salad.",
+      "qty": 180,
+      "userId": 1,
+      "locId": 1,
+      "catId": 2,
+      "id": 2
+    },
+    {
+      "name": "Geo Coffe",
+      "price": "10.00",
+      "description": "Ice coffee with chocolate and some biscuits.",
+      "qty": 500,
+      "userId": 1,
+      "locId": 1,
+      "catId": 7,
+      "id": 3
+    },
+    {
+      "name": "Geo Omelette eggs",
+      "price": "23.00",
+      "description": "Omelette eggs plate with bread and cup of tea.",
+      "qty": 500,
+      "userId": 1,
+      "locId": 1,
+      "catId": 6,
+      "id": 4
+    },
+    {
+      "name": "French Fries Chicken",
+      "price": "112.00",
+      "description": "Fries Chicken with French Fries and Pepsi Cola.",
+      "qty": 10000,
+      "userId": 1,
+      "locId": 1,
+      "catId": 2,
+      "id": 5
+    },
+    {
+      "name": "Bigger Beaf",
+      "price": "89.00",
+      "description": "Beaf Sandwich with Katchup and other Saus . Pepsi Cola and french fries .",
+      "qty": 1000,
+      "userId": 1,
+      "locId": 1,
+      "catId": 2,
+      "id": 6
+    },
+    {
+      "name": "Meat Heat",
+      "price": "99.00",
+      "description": "Big heat meat very spicy with a plate of rice and a Pepsi cane.",
+      "qty": 1500,
+      "userId": 1,
+      "locId": 1,
+      "catId": 2,
+      "id": 8
+    },
+    {
+      "name": "Geo Steak big",
+      "price": "145.00",
+      "description": "Big Steak Meat with Hot Suas and some Fried Potatoes and Pepsi Cane.",
+      "qty": 4000,
+      "userId": 1,
+      "locId": 1,
+      "catId": 2,
+      "id": 9
+    }
+  ]
+}
